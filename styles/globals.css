@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.item {
+    border: 1px solid #111;
+    font-size: 22px;
+    background-color: beige;
+    margin: 5px;
+    height: 40px;
+    width: 160px;
+  }
+  
+  .label {
+    margin: 5px;
+    font-size: 32px;
+  }
+  
+  .listing {
+    margin: 5px;
+    border: 1px solid #111;
+  }
+  
